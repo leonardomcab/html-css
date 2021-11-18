@@ -4,4 +4,4 @@
  Atualizando esse arquivo para avisar que estou trabalhando agora com repositórios!
 
 
- <a href="https://leonardomcab.github.io/html-css/exercicios/ex002/">Executar o exercício 001</a>
+ <a href="https://leonardomcab.github.io/html-css/exercicios/ex001/">Executar o exercício 001</a>
